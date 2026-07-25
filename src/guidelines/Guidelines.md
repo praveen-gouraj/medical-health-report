@@ -1,4 +1,4 @@
-**Add your own guidelines here**
+guidelines here
 <!--
 
 System Guidelines
